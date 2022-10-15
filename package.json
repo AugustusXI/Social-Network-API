@@ -1,0 +1,20 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "An Api to connect to a mongoDB instance",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/AugustusXI/Social-Network-API"
+  },
+  "author": "AugustusXI",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "moment": "^2.29.4",
+    "mongoose": "^6.6.4"
+  }
+}
